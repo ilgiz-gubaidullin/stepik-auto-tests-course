@@ -1,2 +1,3 @@
-# stepik-auto-tests-course
-Для обучения в курсе по автоматизации
+**Привет**
+
+Данный файл создан в ходе прохождения курса на [stepik.org](https://stepik.org/users/288427662/courses)
